@@ -130,16 +130,14 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
 </div>
 
+
 ###
 
 <h3 align="left">GitHub Statistics :</h3>
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=sajib-rahman90&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajib-rahman90&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
+| ------------- | ------------- |
 
 ###
 
-<h3 align="left">GitHub Contributions:</h3>
-
-###
-
-<h3 align="left">Profile Views :</h3>
 
 
